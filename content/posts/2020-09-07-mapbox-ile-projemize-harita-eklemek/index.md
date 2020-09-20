@@ -11,7 +11,7 @@ Merhabalar sayın bu yazıyı okuyan,
 Bu yazı ilk blog yazım olduğu için hatalarım olabilir, affınıza sığınarak başlıyorum.
 
 <div className="Image__Small">
-    <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/lrVjN0kDB742fl1fgE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CAFOnline-lrVjN0kDB742fl1fgE">via GIPHY</a></p>
+    <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/lrVjN0kDB742fl1fgE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 </div>
 
 İlk olarak mapbox.com giriş yaptıktan sonra [Mapbox](https://account.mapbox.com/) adresinden access tokenimizi alıyoruz. Kopyaladığımız tokeni bir not defterine kaydetmenizi öneririm.
@@ -19,8 +19,6 @@ Bu yazı ilk blog yazım olduğu için hatalarım olabilir, affınıza sığına
 ### Adım 1 – Html sayfası hazırlanması.
 
 İlk olarak boş bir .html sayfası oluşturalım ve gerekli mapbox kaynak dosyalarını ekleyelim.
-
-## Code and Syntax Highlighting
 
 ```html
 <!DOCTYPE html>
