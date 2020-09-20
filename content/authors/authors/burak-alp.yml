@@ -1,0 +1,11 @@
+name: Burak Alp
+bio: |
+  Waasritten by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
+avatar: ./avatars/burak-alp.jpg
+social:
+  - url: https://twitter.com/burakalpk
+  - url: https://github.com/Bur0
+  - url: https://instagram.com/burakalpkara.com
+  - url: https://www.linkedin.com/in/burakalpkara
+featured: true
