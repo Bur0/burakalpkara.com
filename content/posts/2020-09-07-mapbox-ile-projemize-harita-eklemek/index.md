@@ -1,5 +1,6 @@
 ---
 title: Mapbox ile projemize harita-eklemek
+slug: mapbox-ile-projemize-harita-eklemek
 author: Burak Alp
 date: 2020-09-07
 hero: ./images/img1.png
