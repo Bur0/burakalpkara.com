@@ -3,9 +3,9 @@ module.exports = {
     title: `Burak Alp KARA`,
     name: `Burak Alp`,
     siteUrl: `https://burakalpkara.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `A developer currently living in Istanbul. Working at Macellan.`,
     hero: {
-      heading: `Welcome to area.`,
+      heading: `I explain with words and code.`,
       maxWidth: 652
     },
     social: [
