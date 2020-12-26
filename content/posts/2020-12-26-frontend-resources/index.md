@@ -31,6 +31,8 @@ In this article, I listed useful resources and tools that you can use to improve
   - [jstutorial.medium.com](https://jstutorial.medium.com/)
   - [wesbos.com/blog](https://wesbos.com/blog)
   - [blog.logrocket.com](https://blog.logrocket.com/)
+  - [overreacted.io](https://overreacted.io/)
+  - [justjavascript.com](https://justjavascript.com/)
   - [epicreact.dev](https://epicreact.dev/)
   - [frontendfoc.us](https://frontendfoc.us/)
   - [kevinpowell.co/articles](https://www.kevinpowell.co/articles/)
@@ -52,7 +54,7 @@ In this article, I listed useful resources and tools that you can use to improve
 
   
 
-### Playground & Sites 
+### 🎯 Playground & Sites 
   - [codepen.io](codepen.io/trending)
   - [w3schools.com](https://www.w3schools.com) 
   - [flexboxfroggy.com](https://flexboxfroggy.com) 
@@ -61,7 +63,7 @@ In this article, I listed useful resources and tools that you can use to improve
   - [codyhouse.co](https://codyhouse.co/) 💰
   
 
-### Javascript/Css Ui Framework
+### ⚓︎ Javascript/Css Ui Framework
    - [tailwindcss](http://tailwindcss.com/)
    - [Bulma](https://bulma.io/)
    - [Bootstrap](https://getbootstrap.com/)
@@ -153,7 +155,7 @@ In this article, I listed useful resources and tools that you can use to improve
   - [William Candillon](https://www.youtube.com/c/wcandillon/videos)
   - [Tarik Guney](https://www.youtube.com/c/TarikGuney/videos) 🇹🇷
   - [JS Turk](https://www.youtube.com/c/JSTurk/videos) 🇹🇷
-  - [PROTOTURK](https://www.youtube.com/c/PROTOTURKCOM/videos)
+  - [PROTOTURK](https://www.youtube.com/c/PROTOTURKCOM/videos) 🇹🇷
   - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos)
   - [Frontend Istanbul](https://www.youtube.com/c/FrontendIstanbul/videos) 🇹🇷
   - [AdrianTwarog](https://www.youtube.com/c/AdrianTwarog/videos)
