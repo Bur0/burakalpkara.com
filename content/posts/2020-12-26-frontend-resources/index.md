@@ -93,6 +93,7 @@ In this article, I listed useful resources and tools that you can use to improve
   - [heroicons.dev](https://heroicons.dev/)
   - [icones.netlify.app](https://icones.netlify.app/)
   - [bundlephobia.com](https://bundlephobia.com/)
+  - [blocks.wickedtemplates.com](https://blocks.wickedtemplates.com)
   
  
  
