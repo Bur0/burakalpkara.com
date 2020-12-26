@@ -111,6 +111,7 @@ In this article, I listed useful resources and tools that you can use to improve
   - [htmlacademy.org](https://htmlacademy.org)
   - [andreasbm.github.io/web-skills](https://andreasbm.github.io/web-skills/)
   - [scrimba.com](https://scrimba.com/)
+  - [codecourse.com](https://codecourse.com/) 💰
   - [teamtreehouse.com](https://teamtreehouse.com/)
   - [linkedin.com/learning](https://www.linkedin.com/learning) 💰
   - [egghead.io](https://egghead.io/)
