@@ -106,6 +106,7 @@ In this article, I listed useful resources and tools that you can use to improve
   - [freecodecamp.org](https://www.freecodecamp.org/)
   - [pluralsight.com](https://www.pluralsight.com/) 💰
   - [designcode.io](https://designcode.io/) 💰
+  - [frontendmasters.com](https://frontendmasters.com/) 💰
   - [leveluptutorials.com](https://www.leveluptutorials.com/)
   - [codecademy.com](https://www.codecademy.com/)
   - [htmlacademy.org](https://htmlacademy.org)
