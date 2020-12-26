@@ -109,6 +109,8 @@ In this article, I listed useful resources and tools that you can use to improve
   - [designcode.io](https://designcode.io/) 💰
   - [frontendmasters.com](https://frontendmasters.com/) 💰
   - [leveluptutorials.com](https://www.leveluptutorials.com/)
+  - [ui.dev](https://ui.dev/) 💰
+  - [academind](https://academind.com/) 💰
   - [codecademy.com](https://www.codecademy.com/)
   - [htmlacademy.org](https://htmlacademy.org)
   - [andreasbm.github.io/web-skills](https://andreasbm.github.io/web-skills/)
@@ -139,6 +141,9 @@ In this article, I listed useful resources and tools that you can use to improve
   - [AdamArgyleInk](https://www.youtube.com/c/AdamArgyleInk/videos)
   - [Justin Kim](https://www.youtube.com/c/JustinKimJS/videos)
   - [WesBos](https://www.youtube.com/c/WesBos/videos)
+  - [Ben Awad](https://www.youtube.com/c/BenAwad97/videos)
+  - [Dev Ed](https://www.youtube.com/c/DevEd/videos)
+  - [Academind](https://www.youtube.com/c/Academind/videos)
   - [TheNetNinja](https://www.youtube.com/c/TheNetNinja/videos)
   - [Adem İlter](https://www.youtube.com/c/AdemIlter/videos) 🇹🇷
   - [Fatih Acet](https://www.youtube.com/c/FatihAcet/videos) 🇹🇷
