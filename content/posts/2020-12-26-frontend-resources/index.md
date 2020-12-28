@@ -125,7 +125,7 @@ In this article, I listed useful resources and tools that you can use to improve
 
   
 ### 🏔 UX / UI
-  - [uxarchive.com](uxarchive.com) 
+  - [uxarchive.com](https://uxarchive.com/) 
   - [lukew.com](https://www.lukew.com/)
   - [refactoringui.com](https://refactoringui.com/)
   - [uxmovement.com](https://uxmovement.com/)
