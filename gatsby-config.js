@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://burakalpkara.com`,
     description: `A developer currently living in Istanbul. Working at Macellan.`,
     hero: {
-      heading: `No fear. No distractions. The ability to let that which does not matter truly slide.`,
+      heading: `I explain with words and code. ♘`,
       maxWidth: 652
     },
     social: [
