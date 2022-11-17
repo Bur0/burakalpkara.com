@@ -3,7 +3,7 @@ module.exports = {
     title: `Burak Alp KARA`,
     name: `Burak Alp`,
     siteUrl: `https://burakalpkara.com`,
-    description: `A developer currently living in Istanbul. Working at Macellan.`,
+    description: `A developer currently living in Istanbul. Working at Akinon.`,
     hero: {
       heading: `I explain with words and code. ♘`,
       maxWidth: 652
